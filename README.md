@@ -1,2 +1,2 @@
 # produzindo-agua
-desenvolvido para o projeto de extensão do curso de bacharelado em Geografia da Universidade Estadual de Ponta Grossa(UEPG)  
+desenvolvido para o projeto de extensão Produzindo Água do curso de bacharelado em Geografia da Universidade Estadual de Ponta Grossa(UEPG)  
