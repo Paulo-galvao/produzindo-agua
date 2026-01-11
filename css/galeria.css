@@ -136,16 +136,21 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  margin-top: 50px;
+  
+  height: 450px;
+    margin-top: 0;
+    background: #000;
 }
 
 .right-btn {  
   right: 0;  
+  color: #fff;
 }
 
 .left-btn {  
   left: 0;  
+  color: #fff;
+
 }
 
 .arrow {

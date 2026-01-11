@@ -266,7 +266,7 @@ header.active {
 }
 
 .grid-section-double p, li {
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 1.8;
   color: #000;
 }
@@ -317,7 +317,7 @@ header.active {
 }
 
 .equipe li {
-  font-size: 1em;
+  font-size: 1.1rem;
 } 
 
 .equipe .profile-img {
@@ -330,8 +330,8 @@ header.active {
 .equipe .profile-img img {
   border-radius: 100px;
   border: 4px solid #D1ECFF;
-  width: 80px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 20px;
   z-index: 1;
 }
@@ -345,10 +345,10 @@ header.active {
   content: "";
   display: block;
   background: #D1ECFF;
-  width: 50%;
+  width: 100%;
   height: 5px;
   position: absolute;
-  top: 50px;
+  top: 80px;
 }
 
 #back-to-top.active {
